@@ -1,0 +1,6 @@
+name: hpml
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /home/nrushad2001/miniconda3/envs/hpml
